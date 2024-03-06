@@ -1,0 +1,78 @@
+﻿<Properties StartupConfiguration="{74A66346-F881-4A82-B497-A710B5AF32BD}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ticketsMvcg PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ticketsMvcg/Views/Producers/Index.cshtml">
+    <Files>
+      <File FileName="ticketsMvcg/Views/Cinemas/Details.cshtml" Line="40" Column="86" />
+      <File FileName="ticketsMvcg/Views/Cinemas/Edit.cshtml" Line="39" Column="90" />
+      <File FileName="ticketsMvcg/Views/Cinemas/Index.cshtml" Line="41" Column="149" />
+      <File FileName="ticketsMvcg/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/Movies/Create.cshtml" Line="86" Column="90" />
+      <File FileName="ticketsMvcg/Views/Movies/Details.cshtml" Line="78" Column="49" />
+      <File FileName="ticketsMvcg/Views/Movies/Edit.cshtml" Line="85" Column="90" />
+      <File FileName="ticketsMvcg/Views/Movies/Index.cshtml" Line="65" Column="94" />
+      <File FileName="ticketsMvcg/Views/Orders/Index.cshtml" Line="22" Column="36" />
+      <File FileName="ticketsMvcg/Views/Orders/OrderCompleted.cshtml" Line="4" Column="68" />
+      <File FileName="ticketsMvcg/Views/Orders/ShoppingCart.cshtml" Line="20" Column="29" />
+      <File FileName="ticketsMvcg/Views/Producers/Create.cshtml" Line="39" Column="90" />
+      <File FileName="ticketsMvcg/Views/Producers/Delete.cshtml" Line="39" Column="86" />
+      <File FileName="ticketsMvcg/Views/Producers/Details.cshtml" Line="39" Column="86" />
+      <File FileName="ticketsMvcg/Views/Producers/Edit.cshtml" Line="39" Column="90" />
+      <File FileName="ticketsMvcg/Views/Producers/Index.cshtml" Line="38" Column="53" />
+      <File FileName="ticketsMvcg/Views/Shared/Components/ShoppingCartSummary/Default.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/Shared/_CreateItem.cshtml" Line="7" Column="60" />
+      <File FileName="ticketsMvcg/Views/Shared/_Identity.cshtml" Line="14" Column="44" />
+      <File FileName="ticketsMvcg/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/Shared/NotFound.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="ticketsMvcg/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ticketsMvcg">
+            <Node name="ticketsMvcg">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Base" expanded="True" />
+                <Node name="Cart" expanded="True" />
+                <Node name="Enums" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Actors" expanded="True" />
+                <Node name="Cinemas" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+                <Node name="Orders" expanded="True" />
+                <Node name="Producers" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="ShoppingCartSummary" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
