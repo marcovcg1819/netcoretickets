@@ -3,7 +3,7 @@
 # Proyecto hecho en .net core 7 
 El presente proyecto trata de un sistema de venta de tickets para peliculas
 
-- proyecto de tutorio de Ervis Trupja, lista de reproduccion: https://www.youtube.com/watch?v=QBkA5_DaasQ&list=PL2Q8rFbm-4ruTcZY39MNOsEu4p76HQ5VX
+- proyecto de tutorial de Ervis Trupja, lista de reproduccion: https://www.youtube.com/watch?v=QBkA5_DaasQ&list=PL2Q8rFbm-4ruTcZY39MNOsEu4p76HQ5VX
 - incluye(identity, patron repository, mvc)
 
 # instrucciones: 
